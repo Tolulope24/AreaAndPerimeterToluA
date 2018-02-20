@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\bin\Debug\AreaAndPerimeterToluA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\bin\Debug\AreaAndPerimeterToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\bin\Debug\AreaAndPerimeterToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\obj\Debug\AreaAndPerimeterToluA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\obj\Debug\AreaAndPerimeterToluA.frmAreaAndPerimeter.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\obj\Debug\AreaAndPerimeterToluA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\obj\Debug\AreaAndPerimeterToluA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\obj\Debug\AreaAndPerimeterToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 1 (Problem Solving)\AreaAndPerimeterToluA\AreaAndPerimeterToluA\obj\Debug\AreaAndPerimeterToluA.pdb
